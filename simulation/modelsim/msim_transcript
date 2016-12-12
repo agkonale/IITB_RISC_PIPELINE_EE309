@@ -1,0 +1,348 @@
+# Reading C:/altera/16.0/modelsim_ase/tcl/vsim/pref.tcl
+# do TOP_LEVEL_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim ALTERA vmap 10.4d Lib Mapping Utility 2015.12 Dec 30 2015
+# vmap work rtl_work 
+# Copying C:/altera/16.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/SET_POS_ZERO.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:48:59 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/SET_POS_ZERO.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity SET_POS_ZERO
+# -- Compiling architecture Struct of SET_POS_ZERO
+# End time: 02:48:59 on Nov 26,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/SE9.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:48:59 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/SE9.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity SE9
+# -- Compiling architecture Struct of SE9
+# End time: 02:48:59 on Nov 26,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/SE6.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:00 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/SE6.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity SE6
+# -- Compiling architecture Struct of SE6
+# End time: 02:49:00 on Nov 26,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/PRIORITY_ENCODER.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:00 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/PRIORITY_ENCODER.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity PRIORITY_ENCODER
+# -- Compiling architecture Struct of PRIORITY_ENCODER
+# End time: 02:49:00 on Nov 26,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/MUX_16_8.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:01 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/MUX_16_8.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity MUX_16_8
+# -- Compiling architecture Struct of MUX_16_8
+# End time: 02:49:01 on Nov 26,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/LH9.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:01 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/LH9.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity LH9
+# -- Compiling architecture Struct of LH9
+# End time: 02:49:01 on Nov 26,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/General_Components.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:02 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/General_Components.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package General_Components
+# End time: 02:49:02 on Nov 26,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/FULL_ADDER.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:02 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/FULL_ADDER.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FULL_ADDER
+# -- Compiling architecture Struct of FULL_ADDER
+# End time: 02:49:02 on Nov 26,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/DATA_REGISTER_16.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:03 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/DATA_REGISTER_16.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity DATA_REGISTER_16
+# -- Compiling architecture Behave of DATA_REGISTER_16
+# End time: 02:49:03 on Nov 26,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/DATA_REGISTER.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:03 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/DATA_REGISTER.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity DATA_REGISTER
+# -- Compiling architecture Behave of DATA_REGISTER
+# End time: 02:49:04 on Nov 26,2016, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/ALU_Components.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:04 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/ALU_Components.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package ALU_Components
+# End time: 02:49:04 on Nov 26,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/WRITE_BACK_STAGE.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:04 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/WRITE_BACK_STAGE.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package General_Components
+# -- Compiling entity WRITE_BACK_STAGE
+# -- Compiling architecture Struct of WRITE_BACK_STAGE
+# End time: 02:49:05 on Nov 26,2016, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/TOP_LEVEL.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:05 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/TOP_LEVEL.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package General_Components
+# -- Compiling entity TOP_LEVEL
+# -- Compiling architecture Struct of TOP_LEVEL
+# ** Warning: C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/TOP_LEVEL.vhd(110): (vcom-1083) Implicit array operator "=" always returns FALSE (left length 16 is not equal to right length 3).
+# 
+# End time: 02:49:05 on Nov 26,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/REGISTER_READ_STAGE.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:05 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/REGISTER_READ_STAGE.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package General_Components
+# -- Compiling entity REGISTER_READ_STAGE
+# -- Compiling architecture Struct of REGISTER_READ_STAGE
+# End time: 02:49:06 on Nov 26,2016, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/REGISTER_FILE.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:06 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/REGISTER_FILE.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package General_Components
+# -- Compiling entity REGISTER_FILE
+# -- Compiling architecture Behave of REGISTER_FILE
+# End time: 02:49:06 on Nov 26,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/PROGRAM_MEMORY.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:07 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/PROGRAM_MEMORY.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package General_Components
+# -- Compiling entity PROGRAM_MEMORY
+# -- Compiling architecture Behave of PROGRAM_MEMORY
+# End time: 02:49:07 on Nov 26,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/MEMORY_ACCESS_STAGE.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:07 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/MEMORY_ACCESS_STAGE.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package General_Components
+# -- Compiling entity MEMORY_ACCESS_STAGE
+# -- Compiling architecture Struct of MEMORY_ACCESS_STAGE
+# End time: 02:49:08 on Nov 26,2016, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/INSTRUCTION_FETCH_STAGE.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:08 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/INSTRUCTION_FETCH_STAGE.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package General_Components
+# -- Loading package ALU_Components
+# -- Compiling entity INSTRUCTION_FETCH_STAGE
+# -- Compiling architecture Struct of INSTRUCTION_FETCH_STAGE
+# End time: 02:49:08 on Nov 26,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/INSTRUCTION_DECODE_STAGE.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:09 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/INSTRUCTION_DECODE_STAGE.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package General_Components
+# -- Loading package ALU_Components
+# -- Compiling entity INSTRUCTION_DECODE_STAGE
+# -- Compiling architecture Struct of INSTRUCTION_DECODE_STAGE
+# End time: 02:49:09 on Nov 26,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/EXECUTION_STAGE.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:09 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/EXECUTION_STAGE.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package General_Components
+# -- Loading package ALU_Components
+# -- Compiling entity EXECUTION_STAGE
+# -- Compiling architecture Struct of EXECUTION_STAGE
+# End time: 02:49:09 on Nov 26,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/DATA_MEMORY.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:10 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/DATA_MEMORY.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package General_Components
+# -- Compiling entity DATA_MEMORY
+# -- Compiling architecture Behave of DATA_MEMORY
+# End time: 02:49:10 on Nov 26,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/ALU.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:10 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/ALU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package ALU_Components
+# -- Loading package General_Components
+# -- Compiling entity ALU
+# -- Compiling architecture Struct of ALU
+# End time: 02:49:11 on Nov 26,2016, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/ADDER_16.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:11 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/ADDER_16.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package ALU_Components
+# -- Compiling entity ADDER_16
+# -- Compiling architecture Struct of ADDER_16
+# End time: 02:49:11 on Nov 26,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vcom -93 -work work {C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/Testbench_TOP_LEVEL.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 02:49:14 on Nov 26,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/Testbench_TOP_LEVEL.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package General_Components
+# -- Compiling entity Testbench_TOP_LEVEL
+# -- Compiling architecture Behave of Testbench_TOP_LEVEL
+# End time: 02:49:14 on Nov 26,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cycloneive -L rtl_work -L work -voptargs="+acc"  Testbench_TOP_LEVEL
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cycloneive -L rtl_work -L work -voptargs=""+acc"" Testbench_TOP_LEVEL 
+# Start time: 02:49:16 on Nov 26,2016
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.general_components
+# Loading work.testbench_top_level(behave)
+# Loading work.top_level(struct)
+# Loading work.alu_components
+# Loading work.instruction_fetch_stage(struct)
+# Loading work.adder_16(struct)
+# Loading work.full_adder(struct)
+# Loading ieee.numeric_std(body)
+# Loading work.program_memory(behave)
+# Loading work.data_register(behave)
+# Loading work.data_register_16(behave)
+# Loading work.instruction_decode_stage(struct)
+# Loading work.se6(struct)
+# Loading work.se9(struct)
+# Loading work.register_read_stage(struct)
+# Loading work.register_file(behave)
+# Loading work.mux_16_8(struct)
+# Loading work.priority_encoder(struct)
+# Loading work.set_pos_zero(struct)
+# Loading work.lh9(struct)
+# Loading work.execution_stage(struct)
+# Loading work.alu(struct)
+# Loading work.memory_access_stage(struct)
+# Loading work.data_memory(behave)
+# Loading work.write_back_stage(struct)
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /testbench_top_level/dut/IF_Stage/PROGRAM_MEM
+add wave -position insertpoint  \
+sim:/testbench_top_level/dut/ID_Stage/L2_1
+add wave -position insertpoint  \
+sim:/testbench_top_level/dut/ID_Stage/L3_1
+# Break key hit
+# Break in Process line__38 at C:/Users/abhishek konale/Desktop/IITB_RISC_PIPELINE/PROGRAM_MEMORY.vhd line 38
+# End time: 02:51:53 on Nov 26,2016, Elapsed time: 0:02:37
+# Errors: 0, Warnings: 1
